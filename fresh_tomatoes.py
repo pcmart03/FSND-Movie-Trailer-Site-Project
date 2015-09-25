@@ -147,6 +147,8 @@ def create_movie_tiles_content(movies):
             movie_title=movie.title,
             poster_image_url=movie.poster_image_url,
             trailer_youtube_id=trailer_youtube_id,
+        # Added two additional pieces of information to display, a synopsis of the movie, 
+        # and a one word review.
             synopsis=movie.storyline,
             movie_review=movie.review
         )
