@@ -1,7 +1,7 @@
 import fresh_tomatoes
 import media
 
-#Movies to be displayed
+# Movies to be displayed
 big_lebowski = media.Movie("The Big Lebowski",
                            "A 60's burnout gets into shennanigans.",
                            "http://www.circlecinema.com/wp-content/uploads/2011/06/The-Big-Lebowski-Movie-poster.jpeg",
@@ -39,7 +39,7 @@ the_matrix = media.Movie("The Matrix",
                          "Woah")
 
 
-#Movies must be in the movies array in order to display on the page.
+# Movies must be in the movies array in order to display on the page.
 movies = [big_lebowski, lego_movie, primer, waynes_world, kick_ass, the_matrix]
 
 fresh_tomatoes.open_movies_page(movies)
