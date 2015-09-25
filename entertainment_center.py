@@ -2,10 +2,10 @@ import fresh_tomatoes
 import media
 
 #Movies to be displayed
-big_lebowski = media.Movie("The Big Lebowski", 
-                           "A 60's burnout gets into shennanigans.", 
-                           "http://www.circlecinema.com/wp-content/uploads/2011/06/The-Big-Lebowski-Movie-poster.jpeg", 
-                           "https://youtu.be/cd-go0oBF4Y", 
+big_lebowski = media.Movie("The Big Lebowski",
+                           "A 60's burnout gets into shennanigans.",
+                           "http://www.circlecinema.com/wp-content/uploads/2011/06/The-Big-Lebowski-Movie-poster.jpeg",
+                           "https://youtu.be/cd-go0oBF4Y",
                            "Abides")
 
 lego_movie = media.Movie("The Lego Movie",
