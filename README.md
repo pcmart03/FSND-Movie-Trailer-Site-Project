@@ -1,5 +1,5 @@
 ##Instructions
-[Click Here]() to view a live demo of the site
+[Click Here](http://pcmart03.github.io/FSND-Movie-Trailer-Site-Project/fresh_tomatoes.html) to view a live demo of the site
 
 ###To install locally
  - Copy the files to your computer
